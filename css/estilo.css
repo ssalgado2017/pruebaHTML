@@ -12,6 +12,9 @@ body {
 		border-bottom: solid 2px orange;
 
 }
+.carousel-inner{
+	height: 400px;
+}
 
 .borra{
 	clear: both;
