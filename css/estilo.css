@@ -1,0 +1,44 @@
+body {
+		padding-top:50px
+}
+
+.jumbotron{
+		background-color: white;
+
+}
+
+.jumbotron-footer{
+		border-top: solid 2px orange;
+		border-bottom: solid 2px orange;
+
+}
+
+.borra{
+	clear: both;
+}
+
+.img-responsive{
+			max-width: 100%;
+
+		}
+
+.img {
+	float:left;
+}
+
+.Lnegrita {
+	font-weight: bold;
+}
+
+.centered {
+	text-align: center;
+}
+
+.centered-img {
+		margin: 0 auto;
+}
+
+.bAzul {
+    background-color: #3379b7; 
+}
+
